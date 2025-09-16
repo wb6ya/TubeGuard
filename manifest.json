@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "ZenTube",
+    "name": "TubeGuard",
     "version": "1.0",
-    "description": "ZenTube - YouTube Time Regulator",
+    "description": "TubeGuard - YouTube Time Regulator",
     "default_locale": "en",
     "permissions": ["storage", "scripting"],
     "action": {

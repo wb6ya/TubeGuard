@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+    <title>ZenTube</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <a href="#" id="langToggleButton" class="lang-switcher"></a>
+        <span class="header-title">YouTube Time Regulator</span>
+        <div class="header-spacer"></div>
+    </div>
+
+    <div class="card status-group">
+        <div id="remainingTimeDisplay" class="timer-display">--:--:--</div>
+        <p class="timer-label" data-i18n="remainingTimeLabel"></p>
+    </div>
+
+    <div class="card settings-group">
+        <div class="setting-row">
+            <label data-i18n="appStatus"></label>
+            <label class="switch"><input type="checkbox" id="isEnabled"><span class="slider"></span></label>
+        </div>
+        <div class="setting-row">
+            <label data-i18n="askPerVideo"></label>
+            <label class="switch"><input type="checkbox" id="promptOnVideo"><span class="slider"></span></label>
+        </div>
+        <div class="setting-row">
+            <label data-i18n="allowedDuration"></label>
+            <div class="input-group">
+                <div class="input-wrapper"><input type="number" id="limitHours"><span data-i18n="hoursUnit"></span></div>
+                <div class="input-wrapper"><input type="number" id="limitMinutes"><span data-i18n="minutesUnit"></span></div>
+            </div>
+        </div>
+        <button id="saveButton" data-i18n="saveButton"></button>
+    </div>
+    
+    <script src="translations.js"></script>
+    <script src="popup.js"></script>
+</body>
+</html>

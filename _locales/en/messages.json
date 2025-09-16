@@ -1,0 +1,19 @@
+{
+    "appName": { "message": "YouTube Time Regulator" },
+    "appStatus": { "message": "Enable Extension" },
+    "askPerVideo": { "message": "Ask for each video" },
+    "allowedDuration": { "message": "Allowed Duration" },
+    "hoursUnit": { "message": "h" },
+    "minutesUnit": { "message": "m" },
+    "saveButton": { "message": "Save Settings" },
+    "saveConfirm": { "message": "Saved!" },
+    "remainingTimeLabel": { "message": "Time Remaining Today" },
+    "blockerMessage": { "message": "You have reached the maximum watch time." },
+    "bypassButton": { "message": "This video is educational, allow watching" },
+    "promptTitle": { "message": "What is the type of this video?" },
+    "entertainmentButton": { "message": "Entertainment (Track Time)" },
+    "educationalButton": { "message": "Educational (Ignore)" },
+    "tagTypeLabel": { "message": "Type:" },
+    "tagRemainingLabel": { "message": "Remaining:" },
+    "tagUndefinedType": { "message": "Undefined" }
+}

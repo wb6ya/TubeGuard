@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "ZenTube",
+    "version": "1.0",
+    "description": "ZenTube - YouTube Time Regulator",
+    "default_locale": "en",
+    "permissions": ["storage", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [{
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["translations.js", "content.js"],
+        "css": ["style.css"]
+    }],
+    "icons": {
+        "48": "images/on-time64.png"
+    }
+}

@@ -1,0 +1,42 @@
+const translations = {
+    "ar": {
+        "appName": "منظم وقت يوتيوب",
+        "appStatus": "الحالة",
+        "askPerVideo": "اسأل مع كل فيديو",
+        "allowedDuration": "المدة المسموح بها",
+        "hoursUnit": "س",
+        "minutesUnit": "د",
+        "saveButton": "حفظ الإعدادات",
+        "saveConfirm": "تم الحفظ!",
+        "remainingTimeLabel": "الوقت المتبقي اليوم",
+        "blockerMessage": "لقد وصلت إلى الحد الأقصى لوقت المشاهدة.",
+        "bypassButton": "هذا الفيديو تعليمي، اسمح بالمشاهدة",
+        "promptTitle": "ما هو نوع هذا الفيديو؟",
+        "entertainmentButton": "ترفيهي (حساب الوقت)",
+        "educationalButton": "تعليمي (تجاهل)",
+        "tagTypeLabel": "النوع:",
+        "tagRemainingLabel": "المتبقي:",
+        "tagUndefinedType": "غير محدد",
+        "langButton": "Switch to English"
+    },
+    "en": {
+        "appName": "YouTube Time Regulator",
+        "appStatus": "Status",
+        "askPerVideo": "Ask for each video",
+        "allowedDuration": "Allowed Duration",
+        "hoursUnit": "h",
+        "minutesUnit": "m",
+        "saveButton": "Save Settings",
+        "saveConfirm": "Saved!",
+        "remainingTimeLabel": "Time Remaining Today",
+        "blockerMessage": "You have reached the maximum watch time.",
+        "bypassButton": "This video is educational, allow watching",
+        "promptTitle": "What is the type of this video?",
+        "entertainmentButton": "Entertainment (Track Time)",
+        "educationalButton": "Educational (Ignore)",
+        "tagTypeLabel": "Type:",
+        "tagRemainingLabel": "Remaining:",
+        "tagUndefinedType": "Undefined",
+        "langButton": "التبديل إلى العربية"
+    }
+};

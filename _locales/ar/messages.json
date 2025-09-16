@@ -1,0 +1,19 @@
+{
+    "appName": { "message": "منظم وقت يوتيوب" },
+    "appStatus": { "message": "تفعيل الإضافة" },
+    "askPerVideo": { "message": "اسأل مع كل فيديو" },
+    "allowedDuration": { "message": "المدة المسموح بها" },
+    "hoursUnit": { "message": "س" },
+    "minutesUnit": { "message": "د" },
+    "saveButton": { "message": "حفظ الإعدادات" },
+    "saveConfirm": { "message": "تم الحفظ!" },
+    "remainingTimeLabel": { "message": "الوقت المتبقي اليوم" },
+    "blockerMessage": { "message": "لقد وصلت إلى الحد الأقصى لوقت المشاهدة." },
+    "bypassButton": { "message": "هذا الفيديو تعليمي، اسمح بالمشاهدة" },
+    "promptTitle": { "message": "ما هو نوع هذا الفيديو؟" },
+    "entertainmentButton": { "message": "ترفيهي (حساب الوقت)" },
+    "educationalButton": { "message": "تعليمي (تجاهل)" },
+    "tagTypeLabel": { "message": "النوع:" },
+    "tagRemainingLabel": { "message": "المتبقي:" },
+    "tagUndefinedType": { "message": "غير محدد" }
+}

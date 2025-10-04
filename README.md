@@ -9,7 +9,7 @@
 An elegant browser extension to help you regulate your YouTube watch time, classify videos, and stay productive.
 
 <p align="center">
-  <img src="https://dribbble.com/search/dark-popup" alt="TubeGuard Popup Interface">
+  <img src="images/on-time128.png" alt="TubeGuard Popup Interface">
 </p>
 
 ---
@@ -43,3 +43,4 @@ Coming soon to the official **Chrome Web Store**!
 <p align="center">
   Made with ❤️ and code.
 </p>
+
